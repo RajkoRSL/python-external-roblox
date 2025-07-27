@@ -12,7 +12,7 @@ to teach you skids the basics
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/python-external-roblox.git
+git clone https://github.com/RajkoRSL/python-external-roblox.git
 cd python-external-roblox
 ```
 
